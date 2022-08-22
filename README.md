@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hola, soy Facundo 👋
 
-Soy un desarrollador Full-Stack con muchas ganas de aprender. Actualmente expandiendo con React, tengo interes en seguir con TypeScript.
+Estoy aprendiendo constantemente por lo que los iconos de abajo van a empezar a crecer :)
 
 ### Languages y herramientas:
 
